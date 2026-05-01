@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.env*.local
+.env.local
+.kiro
+.vscode
+tests
+contracts/escrow/target
+*.log
+npm-debug.log*
+README.md
+docker-compose.yml
+.dockerignore
+scripts
